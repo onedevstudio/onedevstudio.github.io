@@ -1,3 +1,3 @@
 # Onedevstudio.github.io
 
-Redirects to ~> https://onedev.studio
+https://onedevstudio.github.io redirects to ~> https://onedev.studio
